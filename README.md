@@ -23,6 +23,6 @@ AND STEALING YOUR COINS SO DON'T BOTHER BEING LAZY.
 
 TWITTER: @D4RKR4BB1T47
 TOX: 906F431F8DBF8E6FF031F92289764737F29C5D2ADD5F942C47D8785151E55E6E87CDE2E7A41F
+DISCORD: 3V1L R4BB1T#6982 | ID: 1051980263346933791
 TELEGRAM: @BugHunter47
-Discord: 3V1L R4BB1T#6982 | ID: 1051980263346933791
-We have a PGP Key if you'd like to encrypt your messages. Although Tox should be enough as it's P2P and Open Source.
+PGP Key is avialable if needed, although tox shold be fine for secretive messages. Thank you
