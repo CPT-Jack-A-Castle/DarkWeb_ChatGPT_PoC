@@ -4,22 +4,20 @@ A copy of /User-Pain/ from BreachForums' Chat GPT Based DNM Script.
 
 NOTICE TO EVERYONE THREAT ACTORS, DNM VENDORS, RESEARCHERS, LAW ENFORCEMENT AGENCIES AND EVERYONE ELSE:
 
-I, PAVEL M. KRAVKENKO OF MIAMI-DADE COUNTY DO NOT CONDONE THE USE OF THIS SOFTWARE FOR ANYTHING ILLEGAL. IT IS TO FURTHER RESEARCH OF CHATGPT PROVIDED BY OPENAI
-TO UNDERSTAND THE CONCEPTS OF DARK WEB MARKETPLACES AND THREAT ACTORS WHO WILL USE OPENAI OR SIMILAR BUSINESSES AND THEIR PRODUCTS TO PRODUCE ILLICT MARKETPLACES
-THAT WILL OPERATE ON THE TOR NETWORK, CLEAR/OPEN WEB OR THE INTERNET-PEER2PEER NETWORK (I2P). ANYONE IS 100% FREE TO USE OUR CODE FOR WHATEVER THEY CHOOSE TO.
-HOWEVER THIS DOES NOT MEAN WE CONDONE IT TO BE USED FOR MALICOUS REASONS. THIS IS FOR RESEARCH AND ACADEMIC REASONS, WHERE WE DO KNOW IT HAS A HIGH CHANCE OF 
-BEING ABUSED WE DO NOT CONONE, ENDORSE OR OTHERWISE SUPPORT THIS. WE STRIVE TO HELP LAW ENFORCEMENT TO THE BEST OUR ABILITIES, IF THERE IS A PROBLEM CONTACT US 
-WITH OUR CONTACTS FOUND BELOW
+I, Pavel M. Kravkenko by the alias of D4RK R4BB1T & 3V1L R4BB1T (Dark Rabbit/evil rabbit) from Miami-Dade County, Florida United States of America
+will be providing the orginal script, updated addons and a writeup to fully assist the cyber security, infosecurity Organizations and law enforcement agencies globally. It should be noted that my team nor myself condone the use of this script for anything outside of research or acedmemic purposes anyone using this to sell llict goods including but not limited to: stolen credentials, controlled substances, firearms/ammunation, stolen goods, access to unauthorized networks and or devices is strictly prohibbited from using our code to do so.
 
 
-TO THREAT ACTORS: 
-WE DO NOT CONDONE YOUR USE OF OUR CODE TO PRODUCE ILLEGAL MARKETPLACES, YOU RUN THE RISK OF SEVERE PUNISHMENT WHICH MAYBE DEPENDING ON YOUR
-JURISDICTION, COUNTRY/LOCAL/STATE/FEDERAL LAWS COULD BE AS SIMPLE AS A FINE TO AS SEVERE AS THE DEATH PENALTY. WE STRONGLY SUGGEST YOU GET AN 
-EDUCATION AND QUIT TRYING TO LIVE THE "GET RICH QUICK" LIFETSTYLE AND MENTALITY, WE BOTH KNOW IT'S A FUCKING SCAM. WORK HARD AND YOU'LL BE A MILLIONARE. 
-IN DUE TIME YOU WILL NOT BE ABLE TO LAUNDER ALL THE ASSETS YOU HAVE GAINED FROM RUNNING AN ILLICIT MARKETPLACE SO EXIT SCAMMING IS NOT A GOOD IDEA, LETTING 
-PEOPLE TAKE THEIR MONEY BACK? OK FBI. THIS CODE MAY BE FUCKING POINTLESS TO RUN AS YOU'LL HAVE EVERY SCRIPT KIDDIE WHO CAN TORIFY SQL MAP SCANNING YOUR SITE
-AND STEALING YOUR COINS SO DON'T BOTHER BEING LAZY.
+Security of the code & How I've obtained it:
+The code is essentially PHP, it doesn't have any packages from github or other parts of the web, although this significantly increases the risk of vulderbilities I do not have the time nor means to address the security, if you use the code and you are attacked sucessfully you assume the responsiblity for failure to listen to this warning.
 
+How I obtained this information: I Obtained this from breachforum's user "PAIN" However due to association with me & the mods being unable to do anything other then speculate and cry wolf he was ultmently banned for pointing out massive opsec mistakes. Now with this being said Pain aka Edward R. Of Berlin Germany has decided to hand the beginning to pieces of the code to me which is: registration.php and login.php this is the beginning and shouldn't be taken as any other than a Proof of Concept. Although the thread reads like it supports the idea of creating dark web scripts it is to be read sarcasticly and to be laughed at as script kiddies (skids) have a hard time learning how to program or edit their code to stop issues like XSS, SQLi and even DoS Attacks. Now it does appear he supports the idea but it's more or less pointing out the fact that AI (Artifical Inteligence) will begin writing Dark Web Marketplace scripts, Malware, "E-Whoring Bots" and everything malicous under the sun. We understand OpenAI blocks "certian things" and there's "work arounds" but in the eyes of the internet this is short lived, Some cyber criminal organization will eventually liberate the src for ChatGPT or will create a new one that allows people to self-program their own illict projects for a small fee or even for free. Who knows at this point.
+
+
+In Regards to everything else we provide you with this source code to show a proof of concept and will be releasing an article in .pdf .html and on medium for you to enjoy and fully grasp the ever evolving threat landscape
+
+
+My contacts
 
 TWITTER: @D4RKR4BB1T47
 
